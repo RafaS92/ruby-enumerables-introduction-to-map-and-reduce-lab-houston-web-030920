@@ -59,7 +59,7 @@ counter = 0
 while counter < array.length do 
  return false if array[counter] == false
 else true
-end
+
   counter +=1
 end 
 
