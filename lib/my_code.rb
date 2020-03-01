@@ -5,7 +5,7 @@ list = []
 counter = 0
 while counter < array.length do 
   list.push(array[counter] * -1)
-  return list 
   counter +=1
 end 
+return list
 end
