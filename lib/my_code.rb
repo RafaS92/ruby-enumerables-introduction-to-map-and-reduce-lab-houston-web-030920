@@ -27,7 +27,7 @@ def map_to_double(array)
 list = []
 counter = 0
 while counter < array.length do 
-  list.push(array[counter]**)
+  list.push(array[counter]**2)
   counter +=1
 end 
 return list
