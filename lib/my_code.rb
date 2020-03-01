@@ -45,3 +45,13 @@ return list
 end
 
 def reduce_to_total
+  
+list = []
+counter = 0
+while counter < array.length do 
+  list.push(array[counter]**2)
+  counter +=1
+end 
+return list
+end
+  
