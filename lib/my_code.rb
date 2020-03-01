@@ -61,7 +61,6 @@ while counter < array.length do
 else true
 end
   counter +=1
-end
 end 
 
 end
