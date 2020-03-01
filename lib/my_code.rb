@@ -49,7 +49,7 @@ def reduce_to_total(array,starting_point = 0)
 list = []
 counter = 0
 while counter < array.length do 
- total += 
+ total += array[counter]
   counter +=1
 end 
 return list
