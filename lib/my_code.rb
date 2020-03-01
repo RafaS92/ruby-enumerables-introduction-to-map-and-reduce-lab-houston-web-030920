@@ -54,11 +54,10 @@ end
 total
 end
 
-def reduce_to_all_true(array,)
-total = starting_point
+def reduce_to_all_true(array)
 counter = 0
 while counter < array.length do 
- total+= array[counter]
+ return false if 
   counter +=1
 end 
 total
