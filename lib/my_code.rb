@@ -7,3 +7,4 @@ while counter < array.length do
   list.push(array[counter] * -1)
   return list 
 end 
+end
