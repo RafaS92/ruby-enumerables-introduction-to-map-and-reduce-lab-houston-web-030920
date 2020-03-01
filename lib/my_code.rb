@@ -16,7 +16,7 @@ def map_to_no_change(array)
 list = []
 counter = 0
 while counter < array.length do 
-  list.push()
+  list.push(array[counter])
   counter +=1
 end 
 return list
