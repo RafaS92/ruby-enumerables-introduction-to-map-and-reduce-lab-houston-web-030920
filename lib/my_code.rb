@@ -44,4 +44,4 @@ end
 return list
 end
 
-def
+def reduce_to_total
