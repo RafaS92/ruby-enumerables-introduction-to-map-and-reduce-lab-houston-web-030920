@@ -50,6 +50,6 @@ while counter < array.length do
  total += array[counter]
   counter +=1
 end 
-return list
+total
 end
   
